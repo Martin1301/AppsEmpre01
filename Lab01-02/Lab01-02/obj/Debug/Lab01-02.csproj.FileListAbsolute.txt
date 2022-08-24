@@ -1,0 +1,11 @@
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\bin\Debug\Lab01-02.exe.config
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\bin\Debug\Lab01-02.exe
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\bin\Debug\Lab01-02.pdb
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.AssemblyReference.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.SuggestedBindingRedirects.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01_02.Form1.resources
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01_02.Properties.Resources.resources
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.GenerateResource.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.CoreCompileInputs.cache
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01-02.exe
+D:\6to-ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Sem1\Lab01-02\Lab01-02\obj\Debug\Lab01-02.pdb
